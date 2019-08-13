@@ -2,10 +2,10 @@ import tweepy
 import GenerateQuote
 
 
-consumer_token = 'wSLVH66l6dT8QEwnY52bP3qhz'
-consumer_secret = 'dAV884TnfGLjeRdqSfMlwRFsyJvQ8rrVid3Gb1jnwDKU7JMLxX'
-access_token = '1160773516540727296-ulSUTI9kKXRYlPJ54yhW19xU0k9aDL'
-access_secret = 'y7bADITDoukX0xd3UJz9dyGGm4aOsMBdXmXzCKewfCeNW'
+consumer_token = 
+consumer_secret = 
+access_token = 
+access_secret = 
 
 auth = tweepy.OAuthHandler(consumer_token, consumer_secret)
 auth.set_access_token(access_token, access_secret)
